@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "323e58ef-157a-498d-8228-47c288ca593c": {
+      "ProjectGuid": "323e58ef-157a-498d-8228-47c288ca593c",
+      "DisplayName": "FisrtSrez",
+      "ColorIndex": 0
+    },
+    "047dad1b-1cba-48cd-8fc5-7117a191944d": {
+      "ProjectGuid": "047dad1b-1cba-48cd-8fc5-7117a191944d",
+      "DisplayName": "FIrstSrezWPF",
+      "ColorIndex": 1
+    },
+    "46dedbc3-ec0a-4f03-b66b-38519c2d9ed4": {
+      "ProjectGuid": "46dedbc3-ec0a-4f03-b66b-38519c2d9ed4",
+      "DisplayName": "VIN_LIB",
+      "ColorIndex": 2
+    },
+    "7ba85ac3-8435-48c4-9316-8767fc5a1374": {
+      "ProjectGuid": "7ba85ac3-8435-48c4-9316-8767fc5a1374",
+      "DisplayName": "REG_MARK_LIB",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
